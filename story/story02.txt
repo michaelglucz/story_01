@@ -1,0 +1,2 @@
+This is the second thing. it was made using sublime text app on the mac. 
+It seems Atom is supposed to be pretty good too.
